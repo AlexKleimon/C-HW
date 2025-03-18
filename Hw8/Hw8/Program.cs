@@ -33,7 +33,7 @@
                             {
                                 calc.Div(number);
                             }
-                            catch (DivideByZeroException ex)
+                            catch (CalcDivideByZeroException ex)
                             {
                                 Console.WriteLine(ex.Message);
                             }

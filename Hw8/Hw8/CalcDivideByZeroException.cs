@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Hw8
 {
-    class DivideByZeroException : Exception
+    class CalcDivideByZeroException : Exception
     {
-        public DivideByZeroException()
+        public CalcDivideByZeroException()
         {
         }
-        public DivideByZeroException(string? message) : base(message)
+        public CalcDivideByZeroException(string? message) : base(message)
         {
         }
     }

@@ -45,7 +45,7 @@ namespace Hw8
             }
             else
             {
-                throw new DivideByZeroException("Деление на ноль! Ошибка!");
+                throw new CalcDivideByZeroException("Деление на ноль! Ошибка!");
             }
         }
 

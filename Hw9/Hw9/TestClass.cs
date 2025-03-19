@@ -8,9 +8,10 @@ namespace Hw9
 {
     class TestClass
     {
+        [CustomName("CustomFieldName")]
         public int I { get; set; }
         private string? S { get; set; }
-        [CustomName("Test")]
+        
         public decimal D { get; set; }
         public char[]? C { get; set; }
 

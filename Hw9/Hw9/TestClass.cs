@@ -11,7 +11,6 @@ namespace Hw9
         [CustomName("CustomFieldName")]
         public int I { get; set; }
         private string? S { get; set; }
-        
         public decimal D { get; set; }
         public char[]? C { get; set; }
 

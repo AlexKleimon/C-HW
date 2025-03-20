@@ -8,11 +8,11 @@
         {
             List<string> listPathFiles = [];
 
-            HomeWork.FindFiles("C:\\Users\\MSI\\Desktop\\C#\\", $"*.{args[0]}", listPathFiles);
+            SearchFiles.FindFiles("C:\\Users\\MSI\\Desktop\\C#\\", $"*.{args[0]}", listPathFiles);
 
             foreach (string file in listPathFiles)
             {
-                if (HomeWork.FindWord(file, args[1]) == true)
+                if (SearchFiles.FindWord(file, args[1]) == true)
                 {
                     Console.WriteLine(file);
                 }

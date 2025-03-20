@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hw10
 {
-    class HomeWork
+    class SearchFiles
     {
         public static bool FindWord(string path, string word)
         {

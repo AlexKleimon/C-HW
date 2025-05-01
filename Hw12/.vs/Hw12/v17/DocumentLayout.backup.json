@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\C#\\Hw12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2923C6D-BD93-4073-8A6C-CE01997B53EC}|Hw12\\Hw12.csproj|c:\\users\\msi\\desktop\\c#\\hw12\\hw12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2923C6D-BD93-4073-8A6C-CE01997B53EC}|Hw12\\Hw12.csproj|solutionrelative:hw12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2923C6D-BD93-4073-8A6C-CE01997B53EC}|Hw12\\Hw12.csproj|c:\\users\\msi\\desktop\\c#\\hw12\\hw12\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2923C6D-BD93-4073-8A6C-CE01997B53EC}|Hw12\\Hw12.csproj|solutionrelative:hw12\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw12\\Hw12\\Chat.cs",
+              "RelativeDocumentMoniker": "Hw12\\Chat.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw12\\Hw12\\Chat.cs",
+              "RelativeToolTip": "Hw12\\Chat.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:07:32.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw12\\Hw12\\Program.cs",
+              "RelativeDocumentMoniker": "Hw12\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw12\\Hw12\\Program.cs",
+              "RelativeToolTip": "Hw12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:04:39.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

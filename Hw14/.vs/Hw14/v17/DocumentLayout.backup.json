@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\C#\\Hw14\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7653B060-91D3-40AD-8795-C309EDB2FD52}|Hw14\\Hw14.csproj|c:\\users\\msi\\desktop\\c#\\hw14\\hw14\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7653B060-91D3-40AD-8795-C309EDB2FD52}|Hw14\\Hw14.csproj|solutionrelative:hw14\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7653B060-91D3-40AD-8795-C309EDB2FD52}|Hw14\\Hw14.csproj|c:\\users\\msi\\desktop\\c#\\hw14\\hw14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7653B060-91D3-40AD-8795-C309EDB2FD52}|Hw14\\Hw14.csproj|solutionrelative:hw14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7653B060-91D3-40AD-8795-C309EDB2FD52}|Hw14\\Hw14.csproj|c:\\users\\msi\\desktop\\c#\\hw14\\hw14\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7653B060-91D3-40AD-8795-C309EDB2FD52}|Hw14\\Hw14.csproj|solutionrelative:hw14\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7653B060-91D3-40AD-8795-C309EDB2FD52}|Hw14\\Hw14.csproj|c:\\users\\msi\\desktop\\c#\\hw14\\hw14\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7653B060-91D3-40AD-8795-C309EDB2FD52}|Hw14\\Hw14.csproj|solutionrelative:hw14\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw14\\Hw14\\Message.cs",
               "RelativeDocumentMoniker": "Hw14\\Message.cs",
@@ -34,25 +34,24 @@
               "RelativeToolTip": "Hw14\\Message.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T10:26:58.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T10:26:58.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Chat.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw14\\Hw14\\Chat.cs",
               "RelativeDocumentMoniker": "Hw14\\Chat.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw14\\Hw14\\Chat.cs",
               "RelativeToolTip": "Hw14\\Chat.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAYwHoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T10:26:50.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw14\\Hw14\\Program.cs",
               "RelativeDocumentMoniker": "Hw14\\Program.cs",

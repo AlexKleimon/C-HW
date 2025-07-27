@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\C#\\Hw15\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C272B4F2-C72A-408E-9258-4DEBE6F81E0B}|Server\\Server.csproj|c:\\users\\msi\\desktop\\c#\\hw15\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C272B4F2-C72A-408E-9258-4DEBE6F81E0B}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272B4F2-C72A-408E-9258-4DEBE6F81E0B}|Server\\Server.csproj|c:\\users\\msi\\desktop\\c#\\hw15\\server\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C272B4F2-C72A-408E-9258-4DEBE6F81E0B}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272B4F2-C72A-408E-9258-4DEBE6F81E0B}|Server\\Server.csproj|c:\\users\\msi\\desktop\\c#\\hw15\\server\\server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C272B4F2-C72A-408E-9258-4DEBE6F81E0B}|Server\\Server.csproj|solutionrelative:server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272B4F2-C72A-408E-9258-4DEBE6F81E0B}|Server\\Server.csproj|c:\\users\\msi\\desktop\\c#\\hw15\\server\\server\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C272B4F2-C72A-408E-9258-4DEBE6F81E0B}|Server\\Server.csproj|solutionrelative:server\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw15\\Server\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw15\\Server\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:49:01.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw15\\Server\\Server\\Message.cs",
+              "RelativeDocumentMoniker": "Server\\Message.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw15\\Server\\Server\\Message.cs",
+              "RelativeToolTip": "Server\\Message.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:48:48.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FactoryMethod.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw15\\Server\\Server\\FactoryMethod.cs",
+              "RelativeDocumentMoniker": "Server\\FactoryMethod.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw15\\Server\\Server\\FactoryMethod.cs",
+              "RelativeToolTip": "Server\\FactoryMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:48:37.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw15\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw15\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:47:31.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

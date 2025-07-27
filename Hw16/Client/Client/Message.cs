@@ -1,0 +1,80 @@
+﻿namespace Client
+{
+    public enum Command
+    {
+        Register,
+        Confirmation,
+        Delete,
+        List,
+        CheckedOnline,
+        Exit
+    }
+    public enum TypeSerialize
+    {
+        Json,
+        Xml
+    }
+    public class Message
+    {
+        public Command Command { get; set; }
+        public int? Id { get; set; }
+        public string? FromName { set; get; } // отправитель
+        public string? ToName { set; get; } //получатель
+        public string? TextMessage { set; get; }
+        public DateTime TimeMessage { get; set; }
+        public Message()
+        {
+            TextMessage = " ";
+        }
+        public Message(string? nickName, string? recipient, string? textMessage)
+        {
+            FromName = nickName;
+            ToName = recipient;
+            TextMessage = textMessage;
+            TimeMessage = DateTime.Now;
+        }
+        public Message(string? nickName, string? recipient, string? textMessage, Command command)
+        {
+            FromName = nickName;
+            ToName = recipient;
+            TextMessage = textMessage;
+            TimeMessage = DateTime.Now;
+            Command = command;
+        }
+        public string SetMessage(TypeSerialize typeSerialize)
+        {
+            FactoryMethodMessage mes;
+            if (typeSerialize == TypeSerialize.Json)
+            {
+                Creator creatJson = new CreatorJson();
+                mes = creatJson.FactoryMethod();
+            }
+            else
+            {
+                Creator creatXml = new CreatorXml();
+                mes = creatXml.FactoryMethod();
+            }
+            return mes.SetMessage(this);
+        }
+
+        public static Message? GetMessage(String message, TypeSerialize typeSerialize)
+        {
+            FactoryMethodMessage mes;
+            if (typeSerialize == TypeSerialize.Json)
+            {
+                Creator creatJson = new CreatorJson();
+                mes = creatJson.FactoryMethod();
+            }
+            else
+            {
+                Creator creatXml = new CreatorXml();
+                mes = creatXml.FactoryMethod();
+            }
+            return mes.GetMessage(message);
+        }
+        public override string ToString()
+        {
+            return $"{FromName}: {TextMessage} ({TimeMessage.ToShortTimeString()})";
+        }
+    }
+}

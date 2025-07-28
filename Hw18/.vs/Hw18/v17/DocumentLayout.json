@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B3F7FE-B8CA-4983-AAFE-4113B62F5BE2}|Client\\Client.csproj|c:\\users\\msi\\desktop\\c#\\hw18\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B3F7FE-B8CA-4983-AAFE-4113B62F5BE2}|Client\\Client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B3F7FE-B8CA-4983-AAFE-4113B62F5BE2}|Client\\Client.csproj|c:\\users\\msi\\desktop\\c#\\hw18\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B3F7FE-B8CA-4983-AAFE-4113B62F5BE2}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA3A86D-AB33-4882-9C6B-7434A4B4EFAF}|ChatNetworkLib\\ChatNetworkLib.csproj|c:\\users\\msi\\desktop\\c#\\hw18\\chatnetworklib\\mqmessagesourceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA3A86D-AB33-4882-9C6B-7434A4B4EFAF}|ChatNetworkLib\\ChatNetworkLib.csproj|solutionrelative:chatnetworklib\\mqmessagesourceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A959D176-4368-49FC-93AD-DAC860B13355}|Server\\Server.csproj|c:\\users\\msi\\desktop\\c#\\hw18\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A959D176-4368-49FC-93AD-DAC860B13355}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A959D176-4368-49FC-93AD-DAC860B13355}|Server\\Server.csproj|c:\\users\\msi\\desktop\\c#\\hw18\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A959D176-4368-49FC-93AD-DAC860B13355}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA3A86D-AB33-4882-9C6B-7434A4B4EFAF}|ChatNetworkLib\\ChatNetworkLib.csproj|c:\\users\\msi\\desktop\\c#\\hw18\\chatnetworklib\\mqmessagesourceserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA3A86D-AB33-4882-9C6B-7434A4B4EFAF}|ChatNetworkLib\\ChatNetworkLib.csproj|solutionrelative:chatnetworklib\\mqmessagesourceserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A3EDBA-5F2C-4CED-A069-6D8D9A085B78}|Hw18\\ChatCommonLib.csproj|c:\\users\\msi\\desktop\\c#\\hw18\\hw18\\imqmessagesourceserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A3EDBA-5F2C-4CED-A069-6D8D9A085B78}|Hw18\\ChatCommonLib.csproj|solutionrelative:hw18\\imqmessagesourceserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A3EDBA-5F2C-4CED-A069-6D8D9A085B78}|Hw18\\ChatCommonLib.csproj|c:\\users\\msi\\desktop\\c#\\hw18\\hw18\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A3EDBA-5F2C-4CED-A069-6D8D9A085B78}|Hw18\\ChatCommonLib.csproj|solutionrelative:hw18\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A3EDBA-5F2C-4CED-A069-6D8D9A085B78}|Hw18\\ChatCommonLib.csproj|c:\\users\\msi\\desktop\\c#\\hw18\\hw18\\imqmessagesourceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A3EDBA-5F2C-4CED-A069-6D8D9A085B78}|Hw18\\ChatCommonLib.csproj|solutionrelative:hw18\\imqmessagesourceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Client\\Client.cs",
+              "RelativeDocumentMoniker": "Client\\Client.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Client\\Client.cs",
+              "RelativeToolTip": "Client\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:34:59.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:34:32.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwE8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:32:50.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:32:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MQMessageSourceServ.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\ChatNetworkLib\\MQMessageSourceServ.cs",
+              "RelativeDocumentMoniker": "ChatNetworkLib\\MQMessageSourceServ.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\ChatNetworkLib\\MQMessageSourceServ.cs",
+              "RelativeToolTip": "ChatNetworkLib\\MQMessageSourceServ.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:29:08.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MQMessageSourceClient.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\ChatNetworkLib\\MQMessageSourceClient.cs",
+              "RelativeDocumentMoniker": "ChatNetworkLib\\MQMessageSourceClient.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\ChatNetworkLib\\MQMessageSourceClient.cs",
+              "RelativeToolTip": "ChatNetworkLib\\MQMessageSourceClient.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:26:34.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMQMessageSourceServ.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Hw18\\IMQMessageSourceServ.cs",
+              "RelativeDocumentMoniker": "Hw18\\IMQMessageSourceServ.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Hw18\\IMQMessageSourceServ.cs",
+              "RelativeToolTip": "Hw18\\IMQMessageSourceServ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:20:17.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMQMessageSourceClient.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Hw18\\IMQMessageSourceClient.cs",
+              "RelativeDocumentMoniker": "Hw18\\IMQMessageSourceClient.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Hw18\\IMQMessageSourceClient.cs",
+              "RelativeToolTip": "Hw18\\IMQMessageSourceClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:18:59.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Hw18\\Message.cs",
+              "RelativeDocumentMoniker": "Hw18\\Message.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\C#\\Hw18\\Hw18\\Message.cs",
+              "RelativeToolTip": "Hw18\\Message.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:15:20.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
